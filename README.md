@@ -2,6 +2,8 @@
 
 > This is a simple database created from the next diagram to understand basic concepts about SQL databases.
 
+![Screenshot from 2022-07-11 16-40-46](https://user-images.githubusercontent.com/98363075/178363333-be4d1e32-74a8-41db-b9b6-f8395b3efb4a.png)
+
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
